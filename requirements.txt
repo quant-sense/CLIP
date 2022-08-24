@@ -1,5 +1,5 @@
-ftfy
+ftfy==6.1.1
 regex==2022.6.2
-tqdm
-torch
+tqdm==4.64.0
+torch==1.12.1+cu113
 torchvision
