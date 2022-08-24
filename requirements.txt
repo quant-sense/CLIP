@@ -1,5 +1,5 @@
 ftfy
-regex
+regex==2022.6.2
 tqdm
 torch
 torchvision
